@@ -2,7 +2,6 @@ package main.java.strings.assignment_problems;
 
 import java.util.HashMap;
 import java.util.Map;
-
 public class Problem5 {
 
     static void printFilteredWordFrequency(String feedback) {
